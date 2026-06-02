@@ -88,6 +88,8 @@ test_scores = [45, 60, 90, 40, 100]
 for score in test_scores:
     grade = get_grade(score)
     print("Score:", score, "Grade:", grade)
+    
+    
  
 
 
